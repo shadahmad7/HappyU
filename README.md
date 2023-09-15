@@ -19,7 +19,7 @@ To get started with Happy U mobile app on your local machine, follow these simpl
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shadahmad7/happyu.git
+   git clone https://github.com/shadahmad7/happy-u.git
 
 2. **Navigate to the app project directory:**
  ```bash
@@ -51,7 +51,7 @@ To get started with Happy U admin web app on your local machine, follow these si
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/shadahmad7/happyu.git
+   git clone https://github.com/shadahmad7/happy-u.git
 
 2. **Navigate to the app project directory:**
  ```bash
