@@ -21,9 +21,20 @@ To get started with Happy U mobile app on your local machine, follow these simpl
   npm install
 ```
 
+## Usage Mobile App
+
+After successfully installing the dependencies, you can run HappyU mobile app on your local development enviroment using the following command:
+
+ ```bash
+  expo start
+```
+
+This will initiate the development server, enabling you to access the app through a QR code scan using the Expo app, providing Android and iOS compatibility.
+
+
 ## Installation Web Admin
 
-To get started with Happy U mobile app on your local machine, follow these simple steps:
+To get started with Happy U admin web app on your local machine, follow these simple steps:
 
 1. **Clone the repository:**
 
@@ -40,7 +51,8 @@ To get started with Happy U mobile app on your local machine, follow these simpl
   npm install
 ```
 
-## Usage
+
+## Usage Web Admin
 
 After successfully installing the dependencies, you can run HappyU admin on your local development enviroment using the following command:
 
@@ -48,7 +60,7 @@ After successfully installing the dependencies, you can run HappyU admin on your
   npm start
 ```
 
-This will launch and run a web app on an:
+This will start the development server, and you can access the app in your browser at http://localhost:3000.
 
 ## Screenshots
 
