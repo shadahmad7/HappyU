@@ -2,6 +2,16 @@
 
 HappiU is an innovative habit and lifestyle tracking app designed to help you cultivate positive daily routines and improve your overall well-being.
 
+## Technologies Used
+
+- **Frontend**: React Native Expo, React.JS
+- **Backend**: CodeIgnite 4
+- **Database**: mySQL
+- **Authentication**: Firebase Authentication
+- **Deployment**: Firebase, Google Play Store
+- **Version Control**: Git, GitHub
+- **Other Tools**: VS Code,Expo, Postman
+
 ## Installation Mobile app
 
 To get started with Happy U mobile app on your local machine, follow these simple steps:
