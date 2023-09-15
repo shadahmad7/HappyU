@@ -41,6 +41,8 @@ After successfully installing the dependencies, you can run HappyU mobile app on
 
 This will initiate the development server, enabling you to access the app through a QR code scan using the Expo app, providing Android and iOS compatibility.
 
+You can try out the app deployed at App Store from this link - https://apps.apple.com/bf/app/happyu-happiness-samurai/id1634153039?platform=iphone
+
 
 ## Installation Web Admin
 
