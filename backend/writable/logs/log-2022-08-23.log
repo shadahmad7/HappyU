@@ -1,0 +1,10 @@
+ERROR - 2022-08-23 11:34:35 --> Column 'finance_video_name' cannot be null
+ERROR - 2022-08-23 11:34:43 --> Column 'finance_video_name' cannot be null
+ERROR - 2022-08-23 11:36:05 --> Column 'finance_video_name' cannot be null
+ERROR - 2022-08-23 11:36:17 --> Column 'finance_video_name' cannot be null
+ERROR - 2022-08-23 11:37:05 --> Column 'finance_video_name' cannot be null
+ERROR - 2022-08-23 18:33:14 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-08-23 18:33:28 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-08-23 18:35:16 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-08-23 18:35:19 --> Unknown column 'id' in 'where clause'
+ERROR - 2022-08-23 18:35:33 --> Unknown column 'id' in 'where clause'

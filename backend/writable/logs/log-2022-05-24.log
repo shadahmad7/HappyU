@@ -1,0 +1,26 @@
+ERROR - 2022-05-24 17:30:45 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-05-24 17:30:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutController.php(58): CodeIgniter\BaseModel->find()
+#5 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout('27')
+#6 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#7 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-05-24 17:30:52 --> Error connecting to the database: No such file or directory
+CRITICAL - 2022-05-24 17:30:52 --> Unable to connect to the database.
+Main connection [MySQLi]: No such file or directory
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Model.php(145): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutController.php(58): CodeIgniter\BaseModel->find()
+#5 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout('27')
+#6 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#7 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

@@ -1,0 +1,271 @@
+CRITICAL - 2021-11-27 11:57:59 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 11:58:03 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:03:16 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->creates()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:03:19 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->creates()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:04:27 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:04:36 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:06:29 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:06:29 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:06:30 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:06:30 --> Class 'App\Controllers\EmployeeModel' not found
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->create()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:38:26 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:38:29 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:38:32 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:38:37 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:39:35 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:39:53 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:40:24 --> Argument 1 passed to CodeIgniter\BaseModel::findAll() must be of the type int, null given, called in C:\xampp\htdocs\api\app\Controllers\UserCrud.php on line 65
+#0 C:\xampp\htdocs\api\app\Controllers\UserCrud.php(65): CodeIgniter\BaseModel->findAll(NULL)
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-27 12:44:46 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:52:14 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:52:41 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:52:45 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:52:52 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:53:39 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:57:43 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 12:57:53 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:14:37 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:14:41 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:15:44 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:15:47 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:17:05 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:17:08 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:18:19 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:19:30 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata()
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:20:38 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata('6')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:20:41 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata('6')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:20:43 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata('1')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:21:20 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata('1')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:21:25 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata('2')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:21:27 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getonedata('2')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:23:21 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getone('2')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:23:24 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getone('2')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:23:29 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getone('3')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:23:34 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getone('3')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-27 13:23:42 --> Call to a member function where() on null
+#0 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserCrud->getone('3')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

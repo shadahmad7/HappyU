@@ -1,0 +1,101 @@
+ERROR - 2022-05-18 12:10:55 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:11:26 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:12:14 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:12:59 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:13:15 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:14:09 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:15:08 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-18 12:30:43 --> Unknown column 'movement_created_date' in 'where clause'
+ERROR - 2022-05-18 12:31:02 --> Unknown column 'movement_created_date' in 'where clause'
+ERROR - 2022-05-18 12:34:56 --> Unknown column 'water_created_date' in 'where clause'
+ERROR - 2022-05-18 12:35:18 --> Unknown column 'water_created_date' in 'where clause'
+ERROR - 2022-05-18 12:35:23 --> Unknown column 'water_created_date' in 'where clause'
+ERROR - 2022-05-18 12:35:48 --> Unknown column 'water_created_date' in 'where clause'
+ERROR - 2022-05-18 12:36:04 --> Unknown column 'water_created_date' in 'where clause'
+ERROR - 2022-05-18 12:39:58 --> Unknown column 'screen_created_date' in 'where clause'
+CRITICAL - 2022-05-18 12:43:02 --> Class 'App\Models\KindnessDataModel' not found
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\KindnessDataController->getKindnessArticles()
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KindnessDataController))
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-18 12:43:05 --> Class 'App\Models\KindnessDataModel' not found
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\KindnessDataController->getKindnessArticles()
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KindnessDataController))
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-05-18 17:17:13 --> Table 'u314929967_happiness_api.hs_workout_videos' doesn't exist
+CRITICAL - 2022-05-18 17:17:13 --> Call to a member function getResult() on bool
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(47): CodeIgniter\BaseModel->findAll()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('60')
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-18 17:17:44 --> Table 'u314929967_happiness_api.hs_workout_videos' doesn't exist
+CRITICAL - 2022-05-18 17:17:44 --> Call to a member function getResult() on bool
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(47): CodeIgniter\BaseModel->findAll()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('60')
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-18 17:24:37 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(63): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 63, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo(NULL)
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 17:24:50 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/MeditationDataController.php(64): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 64, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\MeditationDataController->getMeditationVideo('60')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MeditationDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 18:19:22 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 62, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('45')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 18:19:40 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 62, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('45')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 18:19:50 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 62, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('45')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 18:20:02 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 62, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('45')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 18:20:08 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 62, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('45')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-18 18:20:15 --> Undefined variable: id
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 62, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutVideo('45')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

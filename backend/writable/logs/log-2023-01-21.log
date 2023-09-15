@@ -1,0 +1,7 @@
+CRITICAL - 2023-01-21 10:53:47 --> Undefined array key "user_active"
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/UserController.php(28): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\UserController->registerUser()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}

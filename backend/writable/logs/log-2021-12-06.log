@@ -1,0 +1,63 @@
+ERROR - 2021-12-06 04:26:41 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:26:41 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-06 04:27:53 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:27:53 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-06 04:29:18 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:29:18 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-06 04:33:45 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:33:45 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-06 04:34:14 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:34:14 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-06 04:36:49 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:36:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-06 04:37:15 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-06 04:37:15 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

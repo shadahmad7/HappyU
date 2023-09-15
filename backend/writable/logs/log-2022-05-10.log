@@ -1,0 +1,168 @@
+CRITICAL - 2022-05-10 17:56:33 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 17:58:20 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 17:59:50 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 18:03:21 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 18:05:12 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 18:05:17 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 18:05:31 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-10 18:05:36 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-10 18:42:04 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2022-05-10 18:42:04 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(49): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-10 18:42:06 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2022-05-10 18:42:06 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(49): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-10 18:42:11 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2022-05-10 18:42:11 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(49): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-10 18:42:41 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2022-05-10 18:42:41 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(49): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-10 18:42:46 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2022-05-10 18:42:46 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(49): CodeIgniter\BaseModel->findAll()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-10 18:46:26 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 D:\xampp\htdocs\api\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('12', 'update')
+#1 D:\xampp\htdocs\api\system\Model.php(646): CodeIgniter\BaseModel->update(Array, '12')
+#2 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(27): CodeIgniter\Model->update(Array, '12')
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->putWorkout()
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-10 18:47:02 --> Return value of CodeIgniter\BaseModel::transformDataToArray() must be of the type array, string returned
+#0 D:\xampp\htdocs\api\system\BaseModel.php(832): CodeIgniter\BaseModel->transformDataToArray('12', 'update')
+#1 D:\xampp\htdocs\api\system\Model.php(646): CodeIgniter\BaseModel->update(Array, '12')
+#2 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(27): CodeIgniter\Model->update(Array, '12')
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->putWorkout()
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-10 18:49:05 --> Undefined variable: id
+#0 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(27): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 27, Array)
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->putWorkout()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-10 19:00:55 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-05-10 19:00:55 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '12')
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(51): CodeIgniter\BaseModel->find('12')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout('12')
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-10 19:00:57 --> Unknown column 'id' in 'where clause'
+CRITICAL - 2022-05-10 19:00:57 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, '12')
+#1 D:\xampp\htdocs\api\app\Controllers\WorkoutController.php(51): CodeIgniter\BaseModel->find('12')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\WorkoutController->getWorkout('12')
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

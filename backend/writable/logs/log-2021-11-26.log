@@ -1,0 +1,54 @@
+CRITICAL - 2021-11-26 05:04:34 --> Call to undefined method App\Models\UserModel::second
+#0 /var/www/html/flutter/app/Controllers/UserCrud.php(34): CodeIgniter\Model->__call('second', Array)
+#1 /var/www/html/flutter/system/CodeIgniter.php(824): App\Controllers\UserCrud->singleUser('5')
+#2 /var/www/html/flutter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#3 /var/www/html/flutter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/flutter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-11-26 05:16:53 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: YES)
+CRITICAL - 2021-11-26 05:16:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: YES)
+#0 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/app/Controllers/UserCrud.php(11): CodeIgniter\BaseModel->findAll()
+#5 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/CodeIgniter.php(824): App\Controllers\UserCrud->index()
+#6 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#7 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/u678867825/domains/noblecommunication.us/public_html/api/flutter/flutter/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-26 05:24:16 --> Call to undefined method App\Controllers\UserCrud::respond()
+#0 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u678867825/domains/noblecommunication.us/public_html/api/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-26 05:27:23 --> Call to undefined method App\Controllers\UserCrud::respond()
+#0 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u678867825/domains/noblecommunication.us/public_html/api/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-26 05:27:55 --> Call to undefined method App\Controllers\UserCrud::respond()
+#0 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u678867825/domains/noblecommunication.us/public_html/api/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-26 05:28:13 --> Call to undefined method App\Controllers\UserCrud::respond()
+#0 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u678867825/domains/noblecommunication.us/public_html/api/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-26 05:29:47 --> Call to undefined method App\Controllers\UserCrud::respond()
+#0 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(824): App\Controllers\UserCrud->getalldata()
+#1 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+#2 /home/u678867825/domains/noblecommunication.us/public_html/api/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/u678867825/domains/noblecommunication.us/public_html/api/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2021-11-26 05:47:53 --> Column 'name' cannot be null
+ERROR - 2021-11-26 05:51:42 --> Column 'name' cannot be null
+ERROR - 2021-11-26 05:56:08 --> Column 'name' cannot be null
+ERROR - 2021-11-26 05:58:30 --> Column 'name' cannot be null

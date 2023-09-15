@@ -1,0 +1,297 @@
+CRITICAL - 2022-05-12 11:27:34 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->putJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:27:58 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->getJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:29:48 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->getJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:29:50 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->getJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:29:50 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->getJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:29:51 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->getJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:31:08 --> Class 'App\Models\JournalModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\JournalController->getJournal('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\JournalController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:47:16 --> Call to undefined function App\Controllers\orderBy()
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\EatingController->getEating('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EatingController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:48:42 --> Call to undefined function App\Controllers\orderBy()
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\EatingController->getEating('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EatingController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:49:50 --> Call to undefined function App\Controllers\orderBy()
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\EatingController->getEating('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EatingController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 11:50:34 --> Call to undefined function App\Controllers\orderBy()
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\EatingController->getEating('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\EatingController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 12:28:10 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 12:28:58 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 12:37:00 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 12:37:34 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 12:38:00 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 12:38:33 --> Undefined variable: rs
+#0 D:\xampp\htdocs\api\app\Controllers\MeditationController.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 31, Array)
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\MeditationController->putMeditation(NULL)
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MeditationController))
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-12 12:38:44 --> Undefined variable: rs
+#0 D:\xampp\htdocs\api\app\Controllers\MeditationController.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 31, Array)
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\MeditationController->putMeditation(NULL)
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MeditationController))
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-12 12:38:45 --> Undefined variable: rs
+#0 D:\xampp\htdocs\api\app\Controllers\MeditationController.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'D:\\xampp\\htdocs...', 31, Array)
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\MeditationController->putMeditation(NULL)
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MeditationController))
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-12 12:56:22 --> Class 'App\Controllers\KindessModel' not found
+#0 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\KindnessController->putKindness('12')
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\KindnessController))
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-12 15:12:57 --> syntax error, unexpected ','
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 15:13:54 --> There is no data to insert.
+#0 D:\xampp\htdocs\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\api\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 D:\xampp\htdocs\api\app\Controllers\UserController.php(39): CodeIgniter\Model->insert(Array)
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->registerUser()
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-12 15:14:01 --> There is no data to insert.
+#0 D:\xampp\htdocs\api\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 D:\xampp\htdocs\api\system\Model.php(620): CodeIgniter\BaseModel->insert(Array, true)
+#2 D:\xampp\htdocs\api\app\Controllers\UserController.php(39): CodeIgniter\Model->insert(Array)
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->registerUser()
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-05-12 15:26:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ShadKhan123@gmail.com AND user_password,f5b20c7a37f775711f2f5c0f014078f3428bf...' at line 3
+CRITICAL - 2022-05-12 15:26:07 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 'ShadKhan123@gma...')
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(58): CodeIgniter\BaseModel->find('ShadKhan123@gma...')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-12 15:26:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ShadKhan123@gmail.com AND user_password,f5b20c7a37f775711f2f5c0f014078f3428bf...' at line 3
+CRITICAL - 2022-05-12 15:26:37 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 'ShadKhan123@gma...')
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(59): CodeIgniter\BaseModel->find('ShadKhan123@gma...')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-12 15:28:37 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'iqrakhan@gmail.com AND user_password,7c4a8d09ca3762af61e59520943dc26494f8941b...' at line 3
+CRITICAL - 2022-05-12 15:28:37 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 'iqrakhan@gmail....')
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(59): CodeIgniter\BaseModel->find('iqrakhan@gmail....')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-12 15:29:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'iqrakhan@gmail.com AND user_password,7c4a8d09ca3762af61e59520943dc26494f8941b...' at line 3
+CRITICAL - 2022-05-12 15:29:31 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 'iqrakhan@gmail....')
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(59): CodeIgniter\BaseModel->find('iqrakhan@gmail....')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-12 15:29:53 --> syntax error, unexpected ','
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 15:30:14 --> syntax error, unexpected '='
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 15:32:19 --> syntax error, unexpected '='
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-12 15:32:32 --> syntax error, unexpected ','
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-12 15:32:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'iqrakhan@gmail.com AND user_password,7c4a8d09ca3762af61e59520943dc26494f8941b...' at line 3
+CRITICAL - 2022-05-12 15:32:52 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 'iqrakhan@gmail....')
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(58): CodeIgniter\BaseModel->find('iqrakhan@gmail....')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-12 15:33:06 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'iqrakhan@gmail.com AND user_password,7c4a8d09ca3762af61e59520943dc26494f8941b...' at line 3
+CRITICAL - 2022-05-12 15:33:06 --> Call to a member function getFirstRow() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(true, 'iqrakhan@gmail....')
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(59): CodeIgniter\BaseModel->find('iqrakhan@gmail....')
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-05-12 15:58:48 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' iqrakhan@gmail.com && 'user_password', 7c4a8d09ca3762af61e59520943dc26494f8941b' at line 3
+CRITICAL - 2022-05-12 15:58:48 --> Call to a member function getResult() on bool
+#0 D:\xampp\htdocs\api\system\BaseModel.php(523): CodeIgniter\Model->doFind(false, NULL)
+#1 D:\xampp\htdocs\api\app\Controllers\UserController.php(57): CodeIgniter\BaseModel->find()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-12 16:05:37 --> syntax error, unexpected 'where' (T_STRING)
+#0 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 D:\xampp\htdocs\api\system\CodeIgniter.php(789): class_exists('\\App\\Controller...', true)
+#5 D:\xampp\htdocs\api\system\CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-05-12 16:14:48 --> Unknown column 'habit_id' in 'where clause'
+CRITICAL - 2022-05-12 16:51:30 --> Use of undefined constant user_id - assumed 'user_id' (this will throw an Error in a future version of PHP)
+#0 D:\xampp\htdocs\api\app\Controllers\UserController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'D:\\xampp\\htdocs...', 58, Array)
+#1 D:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\UserController->loginUser()
+#2 D:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+#3 D:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-12 17:15:49 --> Unknown column 'water_created_date' in 'where clause'
+ERROR - 2022-05-12 17:16:00 --> Unknown column 'movement_created_date' in 'where clause'
+ERROR - 2022-05-12 17:16:08 --> Unknown column 'reading_created_date' in 'where clause'
+ERROR - 2022-05-12 17:16:18 --> Unknown column 'social_created_date' in 'where clause'
+ERROR - 2022-05-12 17:16:30 --> Unknown column 'kindness_created_date' in 'where clause'

@@ -1,0 +1,25 @@
+.addButton {
+    display: flex;
+    justify-content: space-between;
+}
+.error-msg {
+    color: red;
+}
+
+.loader {
+ 
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.trash{
+    transition: 0.5s;
+    color: red;
+ }
+ .trash:hover {
+     cursor: pointer;
+     color: rgb(99, 3, 3);
+ }
+    

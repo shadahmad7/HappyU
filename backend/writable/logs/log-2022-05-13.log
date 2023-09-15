@@ -1,0 +1,13 @@
+ERROR - 2022-05-13 13:01:12 --> Error connecting to the database: Access denied for user '****'@'localhost' (using password: NO)
+CRITICAL - 2022-05-13 13:01:12 --> Unable to connect to the database.
+Main connection [MySQLi]: Access denied for user '****'@'localhost' (using password: NO)
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Database/BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Database/BaseBuilder.php(1443): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(21): CodeIgniter\BaseModel->findAll()
+#5 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->getWorkoutArticles()
+#6 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#7 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

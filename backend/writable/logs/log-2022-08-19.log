@@ -1,0 +1,38 @@
+CRITICAL - 2022-08-19 10:03:47 --> Array to string conversion
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(111): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home/u31492996...', 111, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->addWorkoutVideo()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-19 10:04:30 --> Array to string conversion
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(111): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home/u31492996...', 111, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->addWorkoutVideo()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-19 10:05:04 --> Array to string conversion
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(111): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home/u31492996...', 111, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->addWorkoutVideo()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-19 10:05:23 --> Array to string conversion
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home/u31492996...', 112, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->addWorkoutVideo()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-19 10:07:21 --> Array to string conversion
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WorkoutDataController.php(112): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', '/home/u31492996...', 112, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WorkoutDataController->addWorkoutVideo()
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WorkoutDataController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(39): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-08-19 15:34:40 --> Column 'meditation_article_name' cannot be null
+ERROR - 2022-08-19 15:36:13 --> Column 'meditation_article_name' cannot be null
+ERROR - 2022-08-19 15:36:35 --> Column 'meditation_article_name' cannot be null

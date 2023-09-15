@@ -1,0 +1,205 @@
+ERROR - 2021-12-02 04:40:09 --> Table 'crud.bj_customers' doesn't exist
+CRITICAL - 2021-12-02 04:40:09 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:40:13 --> Table 'crud.bj_customers' doesn't exist
+CRITICAL - 2021-12-02 04:40:13 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:44:33 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:44:33 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:44:36 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:44:36 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:44:41 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:44:41 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:44:42 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:44:42 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:44:43 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:44:43 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:44:55 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:44:55 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:46:14 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:46:14 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:48:04 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:48:04 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 04:52:27 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 04:52:27 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-12-02 05:33:19 --> Argument 2 passed to CodeIgniter\Router\RouteCollection::resource() must be of the type array or null, string given, called in C:\xampp\htdocs\api\app\Config\Routes.php on line 67
+#0 C:\xampp\htdocs\api\app\Config\Routes.php(67): CodeIgniter\Router\RouteCollection->resource('customercrud', 'vehiclecrud')
+#1 C:\xampp\htdocs\api\system\CodeIgniter.php(705): require('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2021-12-02 05:34:43 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:34:43 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:35:05 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:35:05 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:35:19 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:35:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:35:26 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:35:26 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:36:21 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:36:21 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:36:23 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:36:23 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:37:19 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:37:19 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:39:03 --> Table 'crud.bj_vehicle' doesn't exist
+CRITICAL - 2021-12-02 05:39:03 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(75): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->getalldata()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:53:46 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 05:53:46 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 05:54:49 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 05:54:49 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\VehicleCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\VehicleCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\VehicleCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2021-12-02 07:22:38 --> Unknown column 'id' in 'order clause'
+CRITICAL - 2021-12-02 07:22:38 --> Call to a member function getResult() on bool
+#0 C:\xampp\htdocs\api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xampp\htdocs\api\app\Controllers\CustomerCrud.php(15): CodeIgniter\BaseModel->findAll()
+#2 C:\xampp\htdocs\api\system\CodeIgniter.php(824): App\Controllers\CustomerCrud->index()
+#3 C:\xampp\htdocs\api\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustomerCrud))
+#4 C:\xampp\htdocs\api\system\CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\api\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

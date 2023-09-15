@@ -1,0 +1,50 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/admin-web/node_modules
+/mobile-app/node_modules
+/admin-web/package-lock.json
+/mobile-app/package-lock.json
+yarn.lock
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.eslintcache
+.DS_Store
+.idea
+/admin-web/.env
+/admin-web/.firebaserc
+/admin-web/.github
+/admin-web/.firebase
+/admin-web/firebase.json
+/admin-web/build
+/admin-web/.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# backend
+/backend/env
+/backend/app/Config/Database.php
+/backend/app/Config/App.php
+/backend/.htaccess
+
+# mobile-app
+/mobile-app/.expo
+/mobile-app/.expo-shared
+/mobile-app/.vscode
+/mobile-app/package-lock.json
+/mobile-app/eas.json
+/mobile-app/app.json
+
+

@@ -1,0 +1,42 @@
+CRITICAL - 2022-06-01 11:20:27 --> Undefined variable: journalModel
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/FinanceController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 81, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\FinanceController->getFinance('12')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FinanceController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 11:20:34 --> Undefined variable: journalModel
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/FinanceController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 81, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\FinanceController->getFinance('12')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FinanceController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 11:21:16 --> Undefined variable: journalModel
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/FinanceController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 81, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\FinanceController->getFinance('12')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FinanceController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 11:27:59 --> Undefined variable: financeModel
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WeeklyController.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 99, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WeeklyController->getWeeklyRecords('27')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WeeklyController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 11:28:06 --> Undefined variable: financeModel
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WeeklyController.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 99, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WeeklyController->getWeeklyRecords('12')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WeeklyController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-01 11:28:11 --> Undefined variable: financeModel
+#0 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/app/Controllers/WeeklyController.php(99): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', '/home/u31492996...', 99, Array)
+#1 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(824): App\Controllers\WeeklyController->getWeeklyRecords('12')
+#2 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WeeklyController))
+#3 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/u314929967/domains/seodigitalmarketingsolutions.com/public_html/happiness/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

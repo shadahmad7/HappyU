@@ -1,0 +1,4 @@
+ERROR - 2022-07-05 10:49:39 --> Column 'user_password' cannot be null
+ERROR - 2022-07-05 10:50:50 --> Column 'user_password' cannot be null
+ERROR - 2022-07-05 11:44:48 --> Column 'user_password' cannot be null
+ERROR - 2022-07-05 11:46:13 --> Column 'user_password' cannot be null
