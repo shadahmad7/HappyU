@@ -66,20 +66,20 @@ This will start the development server, and you can access the app in your brows
 
 Here are some screenshots to give you a sneak peek of our app:
 
-<img src="mobile-app/screenshots/login.png" alt="Login Page" width="300" height="500">
-<img src="mobile-app/screenshots/home.png" alt="Home Page" width="300" height="500">
-<img src="mobile-app/screenshots/eating.png" alt="Eating Page" width="300" height="500">
-<img src="mobile-app/screenshots/goal.png" alt="Goals Page" width="300" height="500">
-<img src="mobile-app/screenshots/journal.png" alt="Journal Page" width="300" height="500">
-<img src="mobile-app/screenshots/water.png" alt="Water Page" width="300" height="500">
-<img src="mobile-app/screenshots/report.png" alt="Report Page" width="300" height="500">
-<img src="mobile-app/screenshots/todo.png" alt="Todo Page" width="300" height="500">
+<img src="mobile-app/screenshots/login.png" alt="Login Page" width="300" height="600">
+<img src="mobile-app/screenshots/home.png" alt="Home Page" width="300" height="600">
+<img src="mobile-app/screenshots/eating.png" alt="Eating Page" width="300" height="600">
+<img src="mobile-app/screenshots/goal.png" alt="Goals Page" width="300" height="600">
+<img src="mobile-app/screenshots/journal.png" alt="Journal Page" width="300" height="600">
+<img src="mobile-app/screenshots/water.png" alt="Water Page" width="300" height="600">
+<img src="mobile-app/screenshots/report.png" alt="Report Page" width="300" height="600">
+<img src="mobile-app/screenshots/todo.png" alt="Todo Page" width="300" height="600">
 
 
 
 ## Contributing
 
-If you'd like to contribute to HappyU mobile app or report any issues, please check out our Contributing Guidelines.
+If you'd like to contribute to HappyU mobile or admin web app or report any issues, please check out our Contributing Guidelines.
 
 ## License
 
